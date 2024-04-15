@@ -1,7 +1,7 @@
 const quizData = [
   {
     question: "What was the first video game ever made?",
-    options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
+    options: ["Ping Pong", "Spacewar!", "Tetris", "Computer Space"],
     answer: "Spacewar!",
   },
   {
